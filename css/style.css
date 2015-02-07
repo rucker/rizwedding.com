@@ -1252,9 +1252,11 @@
 		#banner p {
 			font-size: 1.55em;
 			margin-bottom: 1.75em;
+			font-weight: normal;
 		}
 
 		#banner nav {
+			font-size: 1.55em;
 			display: inline-block;
 		}
 
