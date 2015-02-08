@@ -222,6 +222,10 @@
 		display: initial;
 	}
 
+	#columbusinfo li {
+		list-style: none;
+	}
+
 /* Form */
 
 	form {
