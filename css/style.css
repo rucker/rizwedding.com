@@ -175,6 +175,10 @@
 		line-height: 1.5em;
 	}
 
+	header h2 {
+		font-weight: bold;
+	}
+
 	header h3 + p {
 		font-size: 1.1em;
 		margin-top: -0.85em;
@@ -210,6 +214,12 @@
 	#quotation {
 		font-family: Niconne;
 		font-size: 1.5em;
+	}
+
+	#columbusinfo p {
+		border-top: none;
+		text-decoration: underline;
+		display: initial;
 	}
 
 /* Form */
@@ -1299,7 +1309,7 @@
 			}
 
 	body.landing #main {
-		margin-top: -14em;
+		margin-top: -18em;
 	}
 
 /* Footer */
