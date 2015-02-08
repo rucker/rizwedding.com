@@ -216,7 +216,7 @@
 		font-size: 1.5em;
 	}
 
-	#columbusinfo p {
+	#columbusinfo p:not(:first-of-type) {
 		border-top: none;
 		text-decoration: underline;
 		display: initial;
