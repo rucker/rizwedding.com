@@ -1276,6 +1276,8 @@
 
 		#banner nav {
 			display: inline-block;
+			background-color: rgba(119,119,119,.3);
+			border-radius: 6px;
 		}
 
 		#banner ul {
