@@ -9,3 +9,4 @@ TO DO
 * Hotel information?
 * Quote font rendering in Chrome
 * `<li>` tags render too large in Chrome. 
+* Zooming can mess with line breaks, e.g. Schmidt's address.
